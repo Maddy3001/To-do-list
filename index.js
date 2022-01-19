@@ -11,6 +11,6 @@ function add(){
         }
     }
     else{
-        alert("chutiya kuch daal")
+        alert("please Enter some task to Add")
     }
 }
